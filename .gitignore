@@ -1,0 +1,23 @@
+# IntelliJ IDEA / Eclipse gibi IDE dosyaları
+.idea/
+.classpath
+.project
+.settings/
+
+# Derlenmiş dosyalar
+*.class
+*.war
+*.jar
+
+# OS spesifik dosyalar
+.DS_Store
+
+# Log dosyaları
+*.log
+
+# Maven/Gradle bağımlılıkları
+/target/
+/build/
+
+# Çevresel yapılandırma dosyaları
+.env
